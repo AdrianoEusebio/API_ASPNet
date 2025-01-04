@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_ASPNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39ffd58804d3c0444168137deed014703707b12f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7711b9550df17c38e9816c417c5a2f1ff8b266")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_ASPNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_ASPNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
